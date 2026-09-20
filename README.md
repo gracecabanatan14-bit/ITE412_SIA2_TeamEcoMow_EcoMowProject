@@ -31,7 +31,7 @@ EcoMow is a solar-powered autonomous lawn mower that uses IoT technology with we
   - Solar energy and battery monitoring
   - Obstacle detection and navigation
   - Online payment and digital receipt
-- In-scope features for Lab 1–3:
+- In-scope features for Performance Task 3:
   - Repository setup
   - Requirements documentation
   - Context diagram
