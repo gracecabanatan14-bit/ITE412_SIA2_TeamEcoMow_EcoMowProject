@@ -1,8 +1,8 @@
 # EcoMow: Solar-Powered Autonomous Lawn Mower with IoT, Web/Mobile Control, and Rental Booking Module
 
-Course:ITE412 – System Integration and Architecture 2  
-Team Name:TeamEcoMow  
-Repository:https://github.com/gracecabanatan14-bit/ITE412_SIA2_TeamEcoMow_EcoMowProject
+Course: ITE412 – System Integration and Architecture 2  
+Team Name: TeamEcoMow  
+Repository: https://github.com/gracecabanatan14-bit/ITE412_SIA2_TeamEcoMow_EcoMowProject
 
 # Team Members & Roles
 
@@ -13,7 +13,7 @@ Repository:https://github.com/gracecabanatan14-bit/ITE412_SIA2_TeamEcoMow_EcoMow
 
 # Project Summary
 
-EcoMow is a solar-powered autonomous lawn mower that uses IoT technology with web-based and mobile-based control systems. It is designed to make lawn maintenance easier by allowing the mower to work automatically while users monitor and control it through an app. The system can detect obstacles, navigate the lawn area, and run on solar-generated power with a rechargeable battery. It also includes safety features such as PIN authentication, tilt detection, emergency stop, and real-time alerts. The project extends its functionality through a rental and booking module for other farmers.
+EcoMow is a solar-powered autonomous lawn mower that uses IoT technology with web-based and mobile-based control systems. It is designed to make lawn maintenance easier by allowing the mower to work automatically while users monitor and control it through an app. The system can detect obstacles, navigate the lawn area, and run on solar-generated power with a rechargeable battery. It also includes safety features such as PIN authentication, tilt detection, emergency stop, and real-time alerts.
 
 # System Objectives
 
@@ -22,7 +22,6 @@ EcoMow is a solar-powered autonomous lawn mower that uses IoT technology with we
 3. Integrate energy monitoring and data management with real-time analytics on solar energy usage, battery consumption, and operational performance.
 4. Develop a multi-platform remote control system using React and Firebase for web and mobile.
 
-
 # Proposed Scope
 
 - Modules/systems to integrate:
@@ -30,7 +29,6 @@ EcoMow is a solar-powered autonomous lawn mower that uses IoT technology with we
   - IoT mower control and monitoring
   - Solar energy and battery monitoring
   - Obstacle detection and navigation
-  - Online payment and digital receipt
 - In-scope features for Performance Task 3:
   - Repository setup
   - Requirements documentation
@@ -46,7 +44,6 @@ EcoMow is a solar-powered autonomous lawn mower that uses IoT technology with we
 - KMJC Integrated Farm Owner — needs efficient, low-cost, and safe mowing operation.
 - Farmers — want easier grass cutting and possible rental use.
 - Employees — will operate or monitor the mower.
-- Renters — want to browse availability and book the mower.
 
 # Tools & Technologies
 
@@ -78,5 +75,6 @@ EcoMow is a solar-powered autonomous lawn mower that uses IoT technology with we
 6. Merge
 
 # Communication
+
 Channel: MS Teams  
-Meeting cadence: [weekends]
+Meeting cadence: weekends
